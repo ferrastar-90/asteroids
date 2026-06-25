@@ -1,2 +1,2 @@
 #Building Asteroids using Python and Pygame.
-  Created folloing boot.dev course.
+  Created following boot.dev course.
